@@ -1,5 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
+## 👤 Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
@@ -22,6 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+## 📊 Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TrevorFrench.TrevorFrench)
 
