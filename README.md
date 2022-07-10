@@ -1,5 +1,7 @@
-### ## TODO:
-### ## - Add README info
+<h3 align="center">👋 Hi there! I'm Trevor French</h3>
+<p align="center">
+  <a href="https://www.trevorfrench.com">Website</a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
