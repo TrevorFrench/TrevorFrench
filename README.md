@@ -1,7 +1,5 @@
-<h3 align="center">👋 Hi there! I'm Trevor French</h3>
-<p align="center">
-  <a href="https://www.trevorfrench.com">Website</a>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
@@ -12,6 +10,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -23,9 +22,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TrevorFrench.TrevorFrench)
 
