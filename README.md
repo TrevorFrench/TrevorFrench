@@ -2,7 +2,6 @@
 ### ## - Add README info
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
-
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
 [![Medium Badge](https://img.shields.io/badge/-@FrenchTrevor-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@FrenchTrevor/)](https://medium.com/@FrenchTrevor)
 
@@ -12,10 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
