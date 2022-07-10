@@ -1,3 +1,7 @@
+## :writing_hand: Author
+
+Trevor French <https://trevorfrench.com>
+
 ## 👤 Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
