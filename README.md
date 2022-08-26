@@ -1,5 +1,3 @@
-## :writing_hand: Portfolio
-
 Trevor French <https://trevorfrench.com>
 
 ## 👤 Profiles
