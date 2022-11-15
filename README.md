@@ -1,4 +1,4 @@
-## :writing_hand: Portfolio
+<!-- ## :writing_hand: Portfolio
 
 Trevor French <https://trevorfrench.com>
 
@@ -6,7 +6,7 @@ Trevor French <https://trevorfrench.com>
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
-[![Medium Badge](https://img.shields.io/badge/-@FrenchTrevor-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@FrenchTrevor/)](https://medium.com/@FrenchTrevor)
+[![Medium Badge](https://img.shields.io/badge/-@FrenchTrevor-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@FrenchTrevor/)](https://medium.com/@FrenchTrevor) -->
 
 ## ⚡ Technologies
 
@@ -30,7 +30,9 @@ Trevor French <https://trevorfrench.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
-
+[![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
+[![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
+[![Medium Badge](https://img.shields.io/badge/-@FrenchTrevor-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@FrenchTrevor/)](https://medium.com/@FrenchTrevor)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TrevorFrench.TrevorFrench)
 
 <!--
