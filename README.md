@@ -1,5 +1,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TrevorFrench&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorFrench&hide=TeX&layout=compact) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-frenchtrevor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frenchtrevor/)](https://www.linkedin.com/in/frenchtrevor/)
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
@@ -16,7 +16,7 @@ Trevor French <https://trevorfrench.com>
 [![Youtube Badge](https://img.shields.io/badge/-TrevorFrench-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/TrevorFrench)](https://www.youtube.com/c/TrevorFrench)
 [![Medium Badge](https://img.shields.io/badge/-@FrenchTrevor-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@FrenchTrevor/)](https://medium.com/@FrenchTrevor) -->
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -32,7 +32,7 @@ Trevor French <https://trevorfrench.com>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
 <!-- ## 📊 Statistics
 
